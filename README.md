@@ -100,7 +100,7 @@ Interactive Tableau dashboards were developed to communicate the analysis result
 
 The dashboards focus on the following areas:
 
-Dashboard 1:Sales Performance
+Dashboard 1:[Sales Performance](https://public.tableau.com/app/profile/leslie.odoi/viz/RetailSalesPerformanceandCustomerValueAnalysisSalesPerformance/SalesPerformancedashboard)
 * Total Revenue
 * Total Profit
 * Profit Margin
@@ -110,7 +110,7 @@ Dashboard 1:Sales Performance
 * Product and regional performance
 
 
-Dashboard 2: Discount and Profitability Analysis
+Dashboard 2: [Discount and Profitability Analysis](https://public.tableau.com/app/profile/leslie.odoi/viz/RetailSalesPerformanceandCustomerValueAnalysisDiscountandProfitability/DiscountandProfitabilityAnalysis)
 
 * Discount distribution
 * Sales and profit by discount level
@@ -118,7 +118,7 @@ Dashboard 2: Discount and Profitability Analysis
 * Loss-making orders
 * Discount effectiveness for product categories
 
-Dashboard 3: Customer Segmentation and RFM Analysis
+Dashboard 3: [Customer Segmentation and RFM Analysis](https://public.tableau.com/app/profile/leslie.odoi/viz/RetailSalesPerformanceandCustomerValueAnalysisCustomerSegmentationandRFMAnalysis/RFM_Dashboard)
 
 * Customer segmentation
 * RFM segment distribution
