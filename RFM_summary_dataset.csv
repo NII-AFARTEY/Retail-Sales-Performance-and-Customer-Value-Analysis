@@ -1,0 +1,7 @@
+Customer_Segment,Total_Customers,Customer_Percentage,Average_Recency,Average_Frequency,Average_Monetary,Total_Revenue
+Loyal,2375,26.48,86.26,6.83,7835.15,18608492.29
+Lost,2011,22.42,387.45,3.37,4200.13,8446459.27
+At Risk,1575,17.56,289.09,6.81,8345.12,13143560.49
+Champions,1430,15.95,41.88,8.67,11599.1,16586720.03
+Potential Loyalist,964,10.75,45.57,3.96,4911.01,4734210.89
+Hibernating,613,6.84,130.53,3.8,4732.12,2900789.89
